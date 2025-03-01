@@ -1,3 +1,5 @@
-# add the following to _config.yml file
-title: YOUR NAME
+# _config.yml
+title: Vinit Kumar
 theme: jekyll-theme-minimal
+description: Welcome to the personal website of Vinit Kumar, an Impact Investment Financial Analyst at Microsoft. Explore my portfolio, blog, and contact information.
+author: Vinit Kumar
