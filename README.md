@@ -89,16 +89,6 @@ Bachelor of Engineering, Civil Engineering
 - **Bachelor Thesis**: Urban Flood Mapping and Forecasting using ArcGIS and MATLAB.
 - **Additional**: Team lead of national service scheme (NSS) and team member of entrepreneurship development cell (EDC).
 
-## Certifications
-
-- **PL-300: Microsoft Power BI Data Analyst - Microsoft** (Ongoing)
-- **Bloomberg Market Concepts - Bloomberg** (Credential ID: Sqg2H79hY9B7PjhQirHUFrbj) (May 2022)
-- **Budgeting and Scheduling Projects - University of California, Irvine** (Credential ID: VS7Y6HZGG8M4) (Sep 2020)
-- **Excel/VBA for Creative Problem Solving - University of Colorado** (Credential ID: YN37PPRQ26ZD) (Aug 2020)
-- **Excel Skills for Business - Macquarie University** (Credential ID: 3STNGHDM4SQ6) (Apr 2020)
-- **Managing Big Data with MySQL - Duke University** (Credential ID: CSHDR34BLQ9Q) (Mar 2020)
-- **Data Visualization and Communication with Tableau - Duke University** (Credential ID: DJ7JW9ECE4WC) (Mar 2020)
-- **Complete Python Bootcamp** (Credential ID: UCJAJC14WL) (Dec 2018)
 
 ## Languages
 
