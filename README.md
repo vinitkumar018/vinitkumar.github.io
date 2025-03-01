@@ -18,7 +18,7 @@ I am a Master in Finance graduate from the Technical University of Munich (TUM),
 
 ### Finance Rotation Program (FRP) Analyst, Microsoft, Munich (Germany)
 **Jul 2023 - Present**
-
+- **Rotation 4: FRP Analyst - Impact Investment**
 - **Rotation 3: FRP Analyst - WE MCAPS**
   - Partnering across Modern Work & Security, and BizApps business as CSA, working closely with the CSA FMs efficiently leading data modelling in ad-hoc reports and communication to business partners.
   - Leading WE discounting reporting, working closely with Segment FMs, CFMs, and other stakeholders.
@@ -61,14 +61,9 @@ I am a Master in Finance graduate from the Technical University of Munich (TUM),
 ### Senior Engineer (Project Management and Finance), Larsen and Toubro Construction, Ranchi (India)
 **Jul 2018 - Jul 2019**
 
-- Oversaw all aspects of project management including scope definition, resource planning, risk assessment, and budgeting.
-- Developed detailed project plans that included milestones and deliverables as well as contingency plans to address risks along with providing regular status updates to executive leadership regarding schedule adherence and cost control.
-
 ### Graduate Engineer Trainee, Larsen and Toubro Construction, Kolkata (India)
 **Jul 2017 - Jun 2018**
 
-- Checked performance and conformity with plans and specifications through field inspections along with analysis of actual vs plan.
-- Supported the business team with client issues related to cost management and contractual negotiations.
 
 ## Education
 
