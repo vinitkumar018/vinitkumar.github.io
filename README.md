@@ -1,9 +1,8 @@
 # Vinit Kumar - Personal Website
 
-
 ## About Me
 
-I am a Master in Finance graduate from the Technical University of Munich (TUM), Germany, with experience in Commercial Finance, Banking, Sales, and Project Management. I am a dynamic team player with effective communication skills, passionate about Tech Finance, Gen AI, and Data Science. I am skilled in Data Modelling and Visualization, Financial Controlling, Financial Planning & Analysis, Cost Estimation, and Process Automation. I am a lifelong curious learner and a strong believer in empathy as a business essential.
+I am a Master in Finance graduate from the Technical University of Munich (TUM), Germany, with extensive experience in Commercial Finance, Banking, Sales, and Project Management. As a dynamic team player with effective communication skills, I am passionate about Tech Finance, Gen AI, and Data Science. My expertise includes Data Modelling and Visualization, Financial Controlling, Financial Planning & Analysis, Cost Estimation, and Process Automation. I am a lifelong curious learner and a strong believer in empathy as a business essential.
 
 ## Skills
 
@@ -11,7 +10,7 @@ I am a Master in Finance graduate from the Technical University of Munich (TUM),
 |------------------------------|-----------------------------------------------------------------------|
 | **Finance-related skills**   | Financial Modelling and Data Mining, Commercial Finance, FP&A, Financial and Business Controlling |
 | **Business Analytics Software** | Power BI Desktop, Tableau                                             |
-| **Applications**             | Microsoft Office (Advanced Excel including Python in Excel, Power Query and Power Pivots, Word, PowerPoint) |
+| **Applications**             | Microsoft Office (Advanced Excel including Python in Excel, Power Query, and Power Pivots, Word, PowerPoint) |
 | **Programming Languages**    | VBA, R, Python (intermediate)                                          |
 | **RDBMS**                    | MySQL, Teradata                                                        |
 
@@ -20,12 +19,29 @@ I am a Master in Finance graduate from the Technical University of Munich (TUM),
 ### Finance Rotation Program (FRP) Analyst, Microsoft, Munich (Germany)
 **Jul 2023 - Present**
 
-| Rotation | Responsibilities                                                                 |
-|----------|----------------------------------------------------------------------------------|
-| **Rotation 4: FRP Analyst - Impact Investment** |                                                                                  |
-| **Rotation 3: FRP Analyst - WE MCAPS** | Partnering across Modern Work & Security, and BizApps business as CSA, working closely with the CSA FMs efficiently leading data modelling in ad-hoc reports and communication to business partners. Leading WE discounting reporting, working closely with Segment FMs, CFMs, and other stakeholders. Collaborating with the WE FP&A on various report automation and optimization also contributing to subsidiary forecast cycles. **Additional**: Geo Lead of FRP RIO Committee. |
-| **Rotation 2: FRP Analyst - CEMA MCAPS** | Led CEMA Expirations/Renewals reporting, working closely with Segment FMs, CFMs, and SELs. Partnered across Support business as CSA, working closely with the Support/ISD/MW CSA efficiently leading data modelling in budget, and forecast cycle along with communication to business partners. Improved workflow collaborating with the Ukraine Relief Program Team bringing in automation. **Additional**: Team Member of FRP CAN Committee, Team member of Microsoft Germany Aspire Event Team. |
-| **Rotation 1: FRP Analyst - Germany MCAPS** | Led End Customer Investment Funds (ECIF) and External Resources (XR) from a Finance end-to-end perspective, supporting the P&L Finance Team, as well as the Investment Finance Manager, collaborating with many other ECIF owners and stakeholders across various organizations in Germany. Collaborated with the Investment Finance Manager on the ECIF ROI/ECIF Yield independently developing 4 dashboards. Created a unified dashboard that showed PayGo/PTU accounts for Azure Open AI (AOAI) in Germany. Successfully completed the Modern Finance Learning Immersion Program (PowerBI, PowerApps, FINN ML). **Additional**: Team Member of FRP O&A Committee. |
+- **Rotation 4: FRP Analyst - Impact Investment**
+  - [Details of responsibilities]
+
+- **Rotation 3: FRP Analyst - WE MCAPS**
+  - Partnered across Modern Work & Security, and BizApps business as CSA, working closely with the CSA FMs.
+  - Led data modelling in ad-hoc reports and communication to business partners.
+  - Led WE discounting reporting, collaborating with Segment FMs, CFMs, and other stakeholders.
+  - Contributed to subsidiary forecast cycles and report automation.
+  - **Additional**: Geo Lead of FRP RIO Committee.
+
+- **Rotation 2: FRP Analyst - CEMA MCAPS**
+  - Led CEMA Expirations/Renewals reporting, collaborating with Segment FMs, CFMs, and SELs.
+  - Partnered across Support business as CSA, leading data modelling in budget and forecast cycles.
+  - Improved workflow by collaborating with the Ukraine Relief Program Team on automation.
+  - **Additional**: Team Member of FRP CAN Committee, Team member of Microsoft Germany Aspire Event Team.
+
+- **Rotation 1: FRP Analyst - Germany MCAPS**
+  - Led End Customer Investment Funds (ECIF) and External Resources (XR) from a Finance end-to-end perspective.
+  - Supported the P&L Finance Team and the Investment Finance Manager.
+  - Developed 4 dashboards independently for ECIF ROI/ECIF Yield.
+  - Created a unified dashboard for PayGo/PTU accounts for Azure Open AI (AOAI) in Germany.
+  - Successfully completed the Modern Finance Learning Immersion Program (PowerBI, PowerApps, FINN ML).
+  - **Additional**: Team Member of FRP O&A Committee.
 
 ### Intern - Business Manager, Microsoft, Munich (Germany)
 **Apr 2022 - Apr 2023**
@@ -83,4 +99,3 @@ Bachelor of Engineering, Civil Engineering
 | **German** | B2.1 - Ongoing                                                            |
 | **English** | Native                                                                   |
 | **Hindi** | Native                                                                     |
-| **Maithili** | Native    
