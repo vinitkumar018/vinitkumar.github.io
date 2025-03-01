@@ -9,9 +9,9 @@ I am a Master in Finance graduate from the Technical University of Munich (TUM),
 
 | Category                     | Skills                                                                 |
 |------------------------------|-----------------------------------------------------------------------|
-| **Finance-related skills**   | FP&A, Financial Data Modelling and Analysis, Commercial Finance, Financial and Business Controlling |
+| **Finance-related skills**   | Financial Modelling and Data Mining, Commercial Finance, FP&A, Financial and Business Controlling |
 | **Business Analytics Software** | Power BI Desktop, Tableau                                             |
-| **Applications**             | Microsoft Office (Advanced Excel including Power Query and Power Pivots, Word, PowerPoint) |
+| **Applications**             | Microsoft Office (Advanced Excel including Python in Excel, Power Query and Power Pivots, Word, PowerPoint) |
 | **Programming Languages**    | VBA, R, Python (intermediate)                                          |
 | **RDBMS**                    | MySQL, Teradata                                                        |
 
