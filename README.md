@@ -1,8 +1,7 @@
-# Vinit Kumar - Personal Website
-
+# Vinit Kumar - Hey there!
 ## About Me
 
-I am a Master in Finance graduate from the Technical University of Munich (TUM), Germany, with extensive experience in Commercial Finance, Banking, Sales, and Project Management. As a dynamic team player with effective communication skills, I am passionate about Tech Finance, Gen AI, and Data Science. My expertise includes Data Modelling and Visualization, Financial Controlling, Financial Planning & Analysis, Cost Estimation, and Process Automation. I am a lifelong curious learner and a strong believer in empathy as a business essential.
+I am a Master in Finance graduate from The Technical University of Munich (TUM), Germany, with extensive experience in Commercial Finance, Banking, Sales, and Project Management. As a dynamic team player with effective communication skills, I am passionate about Tech Finance, Gen AI, and Data Science. My expertise includes Data Modelling and Visualization, Financial Controlling, Financial Planning & Analysis, Cost Estimation, and Process Automation. I am a lifelong curious learner and a strong believer in empathy as a business essential. I am also a hybrid athlete and loves competing.
 
 ## Skills
 
@@ -20,7 +19,7 @@ I am a Master in Finance graduate from the Technical University of Munich (TUM),
 **Jul 2023 - Present**
 
 - **Rotation 4: FRP Analyst - Impact Investment**
-  - [Details of responsibilities]
+  - starting in March 25
 
 - **Rotation 3: FRP Analyst - WE MCAPS**
   - Partnered across Modern Work & Security, and BizApps business as CSA, working closely with the CSA FMs.
