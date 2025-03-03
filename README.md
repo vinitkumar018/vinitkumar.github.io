@@ -15,7 +15,7 @@ I am a Master in Management (Finance & Accounting)  graduate from The Technical 
 
 ## Work Experience
 
-<img width="395" alt="image" src="https://github.com/user-attachments/assets/029e269c-adcd-420f-9af2-e95688540ad1" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/029e269c-adcd-420f-9af2-e95688540ad1" />
 
 ### Finance Rotation Program (FRP) Analyst, Microsoft, Munich (Germany)
 **Jul 2023 - Present**
