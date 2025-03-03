@@ -1,7 +1,7 @@
 # Vinit Kumar - Hey there!
 ## About Me
 
-I am a Master in Finance graduate from The Technical University of Munich (TUM), Germany, with extensive experience in Commercial Finance, Banking, Sales, and Project Management. As a dynamic team player with effective communication skills, I am passionate about Tech Finance, Gen AI, and Data Science. My expertise includes Data Modelling and Visualization, Financial Controlling, Financial Planning & Analysis, Cost Estimation, and Process Automation. I am a lifelong curious learner and a strong believer in empathy as a business essential. I am also a hybrid athlete and loves competing.
+I am a Master in Management (Finance & Accounting)  graduate from The Technical University of Munich (TUM), Germany. I also have a bachelors in Engineering. I am passionate about Tech Finance, Gen AI, and Data Science. My expertise includes Financial Modelling and Data Mining, Financial and Business Controlling, and Process Automation. I am a lifelong curious learner and a strong believer in empathy as a business essential. I am also a hybrid athlete and loves competing.
 
 ## Skills
 
@@ -9,7 +9,7 @@ I am a Master in Finance graduate from The Technical University of Munich (TUM),
 |------------------------------|-----------------------------------------------------------------------|
 | **Finance-related skills**   | Financial Modelling and Data Mining, Commercial Finance, FP&A, Financial and Business Controlling |
 | **Business Analytics Software** | Power BI Desktop, Tableau                                             |
-| **Applications**             | Microsoft Office (Advanced Excel including Python in Excel, Power Query, and Power Pivots, Word, PowerPoint) |
+| **Applications**             | Microsoft Office (Advanced Excel Python in Excel, Power Query, and Power Pivots, Word, PowerPoint) |
 | **Programming Languages**    | VBA, R, Python (intermediate)                                          |
 | **RDBMS**                    | MySQL, Teradata                                                        |
 
@@ -22,9 +22,8 @@ I am a Master in Finance graduate from The Technical University of Munich (TUM),
   - starting in March 25
 
 - **Rotation 3: FRP Analyst - WE MCAPS**
-  - Partnered across Modern Work & Security, and BizApps business as CSA, working closely with the CSA FMs.
-  - Led data modelling in ad-hoc reports and communication to business partners.
-  - Led WE discounting reporting, collaborating with Segment FMs, CFMs, and other stakeholders.
+  - Partnered across segments and prodcuts, leading data modelling in various reports and communication to business partners..
+  - Led WE discounting EDA/modeling, collaborating with Segment FMs, CFMs, and other stakeholders to create an Information Pack for CFOs/EFMs.
   - Contributed to subsidiary forecast cycles and report automation.
   - **Additional**: Geo Lead of FRP RIO Committee.
 
@@ -36,7 +35,6 @@ I am a Master in Finance graduate from The Technical University of Munich (TUM),
 
 - **Rotation 1: FRP Analyst - Germany MCAPS**
   - Led End Customer Investment Funds (ECIF) and External Resources (XR) from a Finance end-to-end perspective.
-  - Supported the P&L Finance Team and the Investment Finance Manager.
   - Developed 4 dashboards independently for ECIF ROI/ECIF Yield.
   - Created a unified dashboard for PayGo/PTU accounts for Azure Open AI (AOAI) in Germany.
   - Successfully completed the Modern Finance Learning Immersion Program (PowerBI, PowerApps, FINN ML).
