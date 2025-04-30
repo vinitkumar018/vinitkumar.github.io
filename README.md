@@ -1,5 +1,5 @@
 # Vinit Kumar - Hey there!
-## About Me
+## About Me 🚀
 
 I am a Master in Management (Finance & Accounting)  graduate from The Technical University of Munich (TUM), Germany. I also have a bachelors in Engineering. I am passionate about Tech Finance, Gen AI, and Data Science. My expertise includes Financial Modelling and Data Mining, Financial and Business Controlling, and Process Automation. I am a lifelong curious learner and a strong believer in empathy as a business essential. I am also a hybrid athlete and loves competing.
 
@@ -13,7 +13,7 @@ I am a Master in Management (Finance & Accounting)  graduate from The Technical 
 | **Programming Languages**    | VBA, R, Python (intermediate)                                          |
 | **RDBMS**                    | MySQL, Teradata                                                        |
 
-## Work Experience
+## Work Experience 🏢
 
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/029e269c-adcd-420f-9af2-e95688540ad1" />
 
@@ -68,7 +68,7 @@ I am a Master in Management (Finance & Accounting)  graduate from The Technical 
 ### Graduate Engineer Trainee, Larsen and Toubro Construction, Kolkata (India)
 **Jul 2017 - Jun 2018**
 
-## Education
+## Education 🎓
 
 ### Technical University of Munich, Munich (Germany)
 **Oct 2019 - Feb 2023**
@@ -91,7 +91,7 @@ Bachelor of Engineering, Civil Engineering
 | **Bachelor Thesis** | Urban Flood Mapping and Forecasting using ArcGIS and MATLAB. |
 | **Additional** | Team lead of national service scheme (NSS) and team member of entrepreneurship development cell (EDC). |
 
-## Languages
+## Languages 
 
 | Language | Proficiency                                                                 |
 |----------|----------------------------------------------------------------------------|
